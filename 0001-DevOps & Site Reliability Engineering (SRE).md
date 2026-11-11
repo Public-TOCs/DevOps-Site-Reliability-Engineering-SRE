@@ -6,7 +6,7 @@
 
 **Training Model:** Instructor-Led | Hands-On | Project-Based\
 **Duration:** 16 Days\
-**Level:** Foundation to Intermediate\
+**Level:** Foundation to Advance\
 **Delivery Mode:** Online / Classroom / Corporate Workshop\
 **Practical Focus:** Three Industry-Oriented DevOps Projects
 
